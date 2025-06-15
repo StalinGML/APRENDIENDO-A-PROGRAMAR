@@ -1,5 +1,5 @@
 # Entrada de datos del usuario
-print("BIENVENIDO HOLA STALIN MENDIETA TE SALUDA :)")
+print("BIENVENIDO HI STALIN MENDIETA TE SALUDA :)")
 print("Aprendamos: Operadores aritméticos, lógicos y relacionales")
 print()
 num1 = float(input("Introduce el primer número: "))
